@@ -1,0 +1,18 @@
+(footprint "place-hole" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp df78fefb-6dac-4180-832a-862c6719c2e8)
+  )
+  (fp_text value "place-hole" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d15d6e9a-e769-4e5f-a583-b79c1fcfd0e1)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7651f24a-9a10-4849-bd81-4277e42c3a90)
+  )
+  (pad "" thru_hole circle (at 0 0) (size 3.65 3.65) (drill 3.15) (layers *.Cu *.Mask) (tstamp 749317ed-ef0f-42b8-86e4-b0f9ec64feee))
+)
