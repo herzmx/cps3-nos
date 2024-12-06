@@ -1075,6 +1075,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2881908"
+			(at 69.85 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "7bdbac4f-09cc-4604-a067-e20d9c81fcfe")
 		)
@@ -1147,6 +1156,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 120.65 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2881908"
 			(at 120.65 90.17 0)
 			(effects
 				(font
@@ -1235,6 +1253,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2881908"
+			(at 121.92 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b0b4e9da-10fc-44cd-828b-d73a4f83aca6")
 		)
@@ -1307,6 +1334,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 69.85 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2881908"
 			(at 69.85 106.68 0)
 			(effects
 				(font
@@ -1395,6 +1431,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2881908"
+			(at 96.52 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d5b0bf54-744d-4834-a869-39c2c01c20cd")
 		)
@@ -1475,6 +1520,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2881908"
+			(at 95.25 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5f588889-dfdd-4b48-9949-5e2227c59609")
 		)
@@ -1528,7 +1582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "herzmx:SW-SMD_6P-L8.6-W6.2-P2.54-LS9.8"
+		(property "Footprint" "CPS3:SW-SMD_6P-L8.6-W6.2-P2.54-LS9.8"
 			(at 72.39 128.27 0)
 			(effects
 				(font
@@ -1547,6 +1601,15 @@
 			)
 		)
 		(property "Description" "3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
+			(at 72.39 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C319040"
 			(at 72.39 125.73 0)
 			(effects
 				(font

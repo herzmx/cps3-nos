@@ -491,7 +491,7 @@
       "specctra_dsn": "",
       "step": "128MB-SIMM.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "128MB-SIMM.wrl"
     },
     "page_layout_descr_file": ""
   },

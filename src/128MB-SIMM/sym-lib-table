@@ -2,7 +2,4 @@
   (version 7)
   (lib (name "CPS3")(type "KiCad")(uri "${KIPRJMOD}/../CPS3.kicad_sym")(options "")(descr ""))
   (lib (name "29GL128")(type "KiCad")(uri "${KIPRJMOD}/../29GL128.kicad_sym")(options "")(descr ""))
-  (lib (name "5822021-4")(type "KiCad")(uri "${KIPRJMOD}/../5822021-4/KiCad/5822021-4.kicad_sym")(options "")(descr ""))
-  (lib (name "5822030-3")(type "KiCad")(uri "${KIPRJMOD}/../5822030-3/KiCad/5822030-3.kicad_sym")(options "")(descr ""))
-  (lib (name "5145154-1")(type "KiCad")(uri "${KIPRJMOD}/../5145154-1/KiCad/5145154-1.kicad_sym")(options "")(descr ""))
 )
