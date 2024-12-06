@@ -130,6 +130,7 @@
 		(property "Reference" "SW1"
 			(at 0 -5.842 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "60619e66-3d7c-48bc-858b-04d1c7a696b7")
 			(effects
 				(font
@@ -142,6 +143,7 @@
 		(property "Value" "SW_DIP_x03"
 			(at -2.794 2.687 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "747686f8-6ea9-4296-8702-867e21a40626")
 			(effects
 				(font
