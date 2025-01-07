@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_02x03_Odd_Even,PinHeader_2x03_P1.27mm_Vertical_SMD,140.0405,-36.730001,0,bottom
+J2,Conn_02x03_Odd_Even,PinHeader_2x03_P1.27mm_Vertical_SMD,140.0405,-45.730001,0,bottom
+J3,Conn_02x03_Odd_Even,PinHeader_2x03_P1.27mm_Vertical_SMD,140.0405,-54.730001,0,bottom
+J4,Conn_02x03_Odd_Even,PinHeader_2x03_P1.27mm_Vertical_SMD,140.0405,-63.730001,0,bottom
+J5,Conn_02x03_Odd_Even,PinHeader_2x03_P1.27mm_Vertical_SMD,256.6705,-36.730001,0,bottom
+J6,Conn_02x03_Odd_Even,PinHeader_2x03_P1.27mm_Vertical_SMD,256.6705,-45.730001,0,bottom
+SW1,SW_DIP_x03,SW-SMD_6P-L8.6-W6.2-P2.54-LS9.8,255.2405,-41.230001,0,top
