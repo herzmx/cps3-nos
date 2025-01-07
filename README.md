@@ -14,7 +14,9 @@ This implementation avoids using ribbon cables because I prefer not to use or so
 
 Gerber, BOM, and POS files are provided in the `hw` directory. You can send them directly to a PCB fabrication company or assemble the boards yourself.  
 
-When assembling, consider that the minimum pitch is **0.5mm**, and the footprint for capacitors and resistors is **0603**.  
+When assembling, consider that the minimum pitch is **0.5mm**, and the footprint for capacitors and resistors is **0603**.
+
+**Important!!!**, PCB tickness it's **1.2mm**
 
 ### 64MB SIMM  
 
