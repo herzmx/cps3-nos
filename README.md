@@ -51,12 +51,15 @@ python bios_patch.py sfiii3_usa.29f400.u2 sfiii3
 
 
 #### Compatibility Table
+
 | Before patch | After patch          |
 |--------------|----------------------|
 | MXCI         | MXCI                 |
 | SHARP/INTEL  | SHARP/INTEL          |
 | HITACHI      | SPANSION             |
 | MXIC         | MICRON NOS/UltraSIMM |
+
+![system](./assets/ultrabios-nos.png)
 
 ### Flashing Your New BIOS
 
