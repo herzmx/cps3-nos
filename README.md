@@ -119,18 +119,18 @@ Currently, CPS3 NOS can only be programmed using the [CPS3 SIMM/CARTRIDGE PORT A
 		cat WAZARD/60WZ WAZARD/61WZ SFIII/60NG SFIII/61NG SFIII2/60 SFIII2/61 JOJO/60JO JOJO/61JO SFIII3B/603S2 SFIII3B/613S2 JOJOBA/60JB JOJOBA/61JB > NOS60
 	 ```
 	 
- **Important Notes**
+**Important Notes**
  
- 	- NOS supports up to 8 titles. When using this feature, you must fill all SIMM slots and space.
- 	- For example, when working with *Street Fighter III: New Generation*, you can duplicate certain files to fill all space:
- 		- Use `10` as `20` for SIMM 2.
-     	- Use `50` four times for SIMM 5.
-     	- Use `40` as `60 `for SIMM 6.
-     	
-		|                                             | 1      | 2      | 3       | 4       | 5       | 6       |
-		|---------------------------------------------|--------|--------|---------|---------|---------|---------|
-		| Street Fighter III: New Generation          | 64MBit | -      | 128MBit | 128MBit | 32MBit  | -       |
-		| Street Fighter III: New Generation (filled) | 64MBit | 64MBit | 128MBit | 128MBit | 128MBit | 128MBit |
+- NOS supports up to 8 titles. When using this feature, you must fill all SIMM slots and space.
+- For example, when working with *Street Fighter III: New Generation*, you can duplicate certain files to fill all space:
+- Use `10` as `20` for SIMM 2.
+- Use `50` four times for SIMM 5.
+- Use `40` as `60 `for SIMM 6.
+ 	
+|                                             | 1      | 2      | 3       | 4       | 5       | 6       |
+|---------------------------------------------|--------|--------|---------|---------|---------|---------|
+| Street Fighter III: New Generation          | 64MBit | -      | 128MBit | 128MBit | 32MBit  | -       |
+| Street Fighter III: New Generation (filled) | 64MBit | 64MBit | 128MBit | 128MBit | 128MBit | 128MBit |
  	
 
 Alternatively, you can use the **ds2nos.py** script to convert UltraSIMM files to NOS format.
