@@ -20,6 +20,7 @@ The primary purpose of this project is extend the functionality of [CPS3 SIMM/CA
 
 Thank you for your understanding, and I apologize for any inconvenience this may have caused.
 
+<video src="./assets/NOS-128-issue.mp4" width="320" height="240" controls></video>
 
 ## Assembly/Production  
 
