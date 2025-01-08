@@ -4,10 +4,21 @@
 
 CPS3 NOS is an alternative to the original SIMMs for CPS3; currently, the available options include clone SIMMs with old-stock FLASH memory and Ultra SIMMs by DS. 
 
-CPS3 NOS works similarly to Ultra SIMMs, allowing you to store up to 8 titles and switch between them using a DIP switch.
+The project shares similarities with UltraSIMM but is not based on it. Instead, it is a new implementation built using publicly available pinouts and CPS3 schematics from FPGA projects.
 
-This implementation avoids using ribbon cables because I prefer not to use or solder them, however, you are free to create your own SIMM switch using the provided source files.
+The initial design aimed to use SPANSION NOR FLASH as the main memory, but this proved unfeasible due to speed limitations causing significant instability. As a result, MICRON NOR FLASH was used instead. While this is the same type of memory used in UltraSIMM and shares its pinout, but it's not directly compatible with UltraSIMM/UltraBIOS setup, because it is an entirely separate implementation.
 
+The primary purpose of this project is to provide an alternative to SIMMs for catridges with original keys and battery, addressing the risks involved when updating the BIOS using the [CPS3 SIMM/CARTRIDGE PORT ADAPTER for OSCR](https://github.com/herzmx/CPS3-OSCR-Adapter). This project is not intended to create a new multi-SIMM solution. Given this primary purpose, it is very likely that UltraSIMM would also works on catridges with original keys and battery, though I do not have access to one to confirm.
+
+## Issue Detected on 128MB NOS Module
+
+Issue is identified with the 128MB NOS module causing intermittent problems after extended use. This may impact performance in games.
+
+If you’ve already sent files for a production release, we sincerely apologize for the inconvenience. At this time, I’m not entirely confident in the stability of this release.
+
+The primary purpose of this project is extend the functionality of [CPS3 SIMM/CARTRIDGE PORT ADAPTER for OSCR](https://github.com/herzmx/CPS3-OSCR-Adapter). With this adapter, you gain exciting new possibilities for dumping cartridges or testing configurations.
+
+Thank you for your understanding, and I apologize for any inconvenience this may have caused.
 
 
 ## Assembly/Production  
